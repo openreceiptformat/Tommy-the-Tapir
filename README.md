@@ -96,7 +96,7 @@ When it does not, the receipt remains valid.
 
 ## High-Level Architecture
 
-
+![Recipta Tommy Interaction](Public/Recipta-Tommy-interaction.png)
 
 Payments, POS systems, and checkout flows operate alongside this process, not within it.
 
