@@ -96,3 +96,53 @@ When it does not, the receipt remains valid.
 
 ## High-Level Architecture
 
+
+
+Payments, POS systems, and checkout flows operate alongside this process, not within it.
+
+---
+
+## Relationship to Open Receipt Format (ORF)
+
+Tommy is an **implementation**, not the standard.
+
+- ORF defines *what* a receipt is
+- Tommy defines *how* a receipt can be claimed
+
+Other ORF-compatible implementations are encouraged.
+
+---
+
+## Project Status
+
+Tommy the Tapir is in **early exploration and design**.
+
+Current focus:
+- Architecture documentation
+- Reference flows (physical and online)
+- ORF conformance patterns
+
+Code will be added incrementally as interfaces stabilize.
+
+---
+
+## Contributing
+
+Discussion, feedback, and design contributions are welcome.
+
+If you are:
+- A POS vendor
+- A retailer
+- A payment provider
+- A standards contributor
+
+…your perspective is especially valuable.
+
+---
+
+## License
+
+This project is open source.  
+See the LICENSE file for details.
+
+
