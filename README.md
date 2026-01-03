@@ -6,7 +6,17 @@ Reference App for merchant side of the OFR ecosystem
 
 **Tommy the Tapir** is an open-source framework for in-store digital interaction and receipt retrieval. It can operate independently of payment systems, but provides optional adapters for merchants who wish to integrate payments. Tommy generates receipts that conform to the **Open Receipt Format (ORF)**, while remaining intentionally agnostic to payment and settlement mechanisms by design.
 
-# Features
+## Documentation
+
+To understand Tommy the Tapir, follow this recommended reading order:
+
+1. **[Architecture](architecture.md)** - Core framework architecture, principles, and system components
+2. **[Online Commerce](TommyOnline.md)** - How Tommy adapts to online retail and e-commerce platforms
+3. **[Payments](Payments.md)** - Payment-aware but payment-optional architecture and integration patterns
+
+---
+
+## Features
 
 - Digital menu browsing, 
 - Item selection, and 
