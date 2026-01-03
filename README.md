@@ -12,7 +12,7 @@ Reference App for merchant side of the OFR ecosystem
 - Item selection, and 
 - **claim-based receipt retrieval** 
 
-In both physical and online commerce — without replacing existing POS, checkout, or payment systems.
+Tommy works in both physical and online commerce — without replacing existing POS, checkout, or payment systems.
 
 ---
 
